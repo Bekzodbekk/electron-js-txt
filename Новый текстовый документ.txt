@@ -1,0 +1,17 @@
+https://youtu.be/LBVy_BM3fpc      //Link
+
+
+"dev": "concurrently \"electron .\" \"cd my-app && npm start\""    //JSON code
+win.loadURL("http://localhost:3000")                             //index.js
+
+
+// CODE
+
+npm init -y
+
+npm install -g electron --allow-root --unsafe-perm=true
+
+npx create-react-app my-app
+
+npm install -g concurrently
+
